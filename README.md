@@ -184,7 +184,7 @@ Test Figma API with Postman:
 
 Update GitHub Webhook:
 
-- Edit the webhook payload URL to https://webhooktestcreativestudios.netlify.app/.netlify/functions/webhook.
+- Edit the webhook payload URL to https://netlifyspecificurl.netlify.app/.netlify/functions/webhook.
 
 Check Netlify Logs:
 
